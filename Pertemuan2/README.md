@@ -14,8 +14,9 @@ Aplikasi simulator feed berita berbasis Kotlin Multiplatform & Compose Multiplat
 5. **Coroutines Async Detail**: Mengambil konten detail berita secara asynchronous di background thread.
 
 ## Screenshots
-> <img src="C:\Users\Acer\Pictures\Screenshots\Screenshot 2026-09-25 200557.png"/>
-> <img src="C:\Users\Acer\Pictures\Screenshots\Screenshot 2026-09-25 200611.png"/>
+<img width="1733" height="1142" alt="Screenshot 2026-09-25 200557" src="https://github.com/user-attachments/assets/08f8ae4c-24eb-4334-9064-509138b3bf9d" />
+<img width="1733" height="1142" alt="Screenshot 2026-09-25 200611" src="https://github.com/user-attachments/assets/68e5a5c2-25af-44c1-ad44-57091e5b817b" />
+
 
 ## Cara Menjalankan Aplikasi
 
