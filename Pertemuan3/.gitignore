@@ -1,0 +1,68 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Gradle files
+.gradle/
+build/
+**/build/
+!src/**/build/
+
+# Kotlin / KMP
+.kotlin/
+kotlin-js-store/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log files
+*.log
+
+# Android Studio / IntelliJ IDEA
+*.iml
+.idea/
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/assetWizardSettings.xml
+.idea/shelf/
+.idea/jarRepositories.xml
+.idea/compiler.xml
+
+# Keystore / signing files (Penting: jangan sampai ter-push ke GitHub)
+*.jks
+*.keystore
+
+# External native build
+.externalNativeBuild/
+.cxx/
+cmake-build-*/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Xcode / iOS
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/project.xcworkspace/
+!*.xcworkspace/contents.xcworkspacedata
+**/xcuserdata/
+**/xcshareddata/WorkspaceSettings.xcsettings
+DerivedData/
+
+# Node (jika ada tool JS/Wasm)
+node_modules/
+
+# Profiling / Captures
+captures/
